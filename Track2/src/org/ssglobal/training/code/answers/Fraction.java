@@ -6,7 +6,7 @@ public class Fraction {
 		
 		public Conditionals cond = new Conditionals();
 	
-	
+	// Hi just trying git commit
 		public static long id = 90L; // class level
 		public int numerator;
 		public int denominator;
